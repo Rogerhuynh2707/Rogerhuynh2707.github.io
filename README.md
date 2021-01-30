@@ -23,15 +23,15 @@
         </ul>
     </section>
     <span id="picture" class="hexagon">
-        <div><img src="Images/123.jpg" alt=""></div>
-        <div><img src="Images/234.jpg" alt=""></div>  
-        <div><img src="Images/345.jpg" alt=""></div>
-        <div><img src="Images/456.jpg" alt=""></div>
-        <div><img src="Images/567.jpg" alt=""></div>
-        <div><img src="Images/678.jpg" alt=""></div>
-        <div><img src="Images/789.jpg" alt=""></div>
-        <div><img src="Images/890.jpg" alt=""></div>
-        <div><img src="Images/910.jpg" alt=""></div>
+        <div><img src="images/123.jpg" alt=""></div>
+        <div><img src="images/234.jpg" alt=""></div>  
+        <div><img src="images/345.jpg" alt=""></div>
+        <div><img src="images/456.jpg" alt=""></div>
+        <div><img src="images/567.jpg" alt=""></div>
+        <div><img src="images/678.jpg" alt=""></div>
+        <div><img src="images/789.jpg" alt=""></div>
+        <div><img src="images/890.jpg" alt=""></div>
+        <div><img src="images/910.jpg" alt=""></div>
     </span>
     <footer>Designer: Huỳnh Lê Song Tấn</footer>
 </body>
