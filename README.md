@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,7 +12,7 @@
                 <li><a id="gallery" >GALLERY</a></li>
             </div>
             <div>
-                <li><a href="abc/About you/index.html">ABOUT YOU</a></li>
+                <li><a href="abc/index.html">YOU</a></li>
             </div>
             <div>
                 <li><a href="abc/Music/index.html">MUSIC</a></li>    
@@ -23,15 +23,15 @@
         </ul>
     </section>
     <span id="picture" class="hexagon">
-        <div><img src="images/123.jpg" alt=""></div>
-        <div><img src="images/234.jpg" alt=""></div>  
-        <div><img src="images/345.jpg" alt=""></div>
-        <div><img src="images/456.jpg" alt=""></div>
-        <div><img src="images/567.jpg" alt=""></div>
-        <div><img src="images/678.jpg" alt=""></div>
-        <div><img src="images/789.jpg" alt=""></div>
-        <div><img src="images/890.jpg" alt=""></div>
-        <div><img src="images/910.jpg" alt=""></div>
+        <div><img src="Images/123.jpg" alt=""></div>
+        <div><img src="Images/234.jpg" alt=""></div>  
+        <div><img src="Images/345.jpg" alt=""></div>
+        <div><img src="Images/456.jpg" alt=""></div>
+        <div><img src="Images/567.jpg" alt=""></div>
+        <div><img src="Images/678.jpg" alt=""></div>
+        <div><img src="Images/789.jpg" alt=""></div>
+        <div><img src="Images/890.jpg" alt=""></div>
+        <div><img src="Images/910.jpg" alt=""></div>
     </span>
     <footer>Designer: Huỳnh Lê Song Tấn</footer>
 </body>
