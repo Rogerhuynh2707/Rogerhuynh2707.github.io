@@ -1,0 +1,30 @@
+body{
+	font-family: Helvetica Neue, Helvetica, Arial, san-serif;
+	color: : #15cbde;
+	font-weight: 300;
+	margin: 0;
+    background-image: url("./Background/bg1.jpg");
+}
+
+.header {
+	background: #15cbde;
+	color: #fff;
+	padding: 0.3em, 1em;
+}
+
+.main {
+
+}
+
+.content {
+	background : #e8e8e8;
+	padding : 0.3em, 1em;
+	margin-bottom: 1em;
+}
+
+.sidebar {
+	background : #c3c3c3;
+	font-size: 95%
+	padding: 0.3em, 1em;
+}
+
