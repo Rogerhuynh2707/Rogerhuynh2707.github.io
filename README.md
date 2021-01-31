@@ -12,10 +12,10 @@
                 <li><a id="gallery" >GALLERY</a></li>
             </div>
             <div>
-                <li><a href="abc/index.html">YOU</a></li>
+                <li><a href="you/index.html">YOU</a></li>
             </div>
             <div>
-                <li><a href="abc/Music/index.html">MUSIC</a></li>    
+                <li><a href="you/Music/index.html">MUSIC</a></li>    
             </div>
             <div>
                 <li><a href="https://www.facebook.com/huynhlesongtan2707">CONTACT</a></li>
